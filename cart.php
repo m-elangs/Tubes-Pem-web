@@ -98,7 +98,7 @@ if(isset($_POST['update_qty'])){
 </section>
 
 
-<section>kuda</section>
+
 
 
 
